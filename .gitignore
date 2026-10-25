@@ -1,0 +1,6 @@
+__pycache__/
+texts/
+_*.py
+_*.txt
+_*.json
+_*.html
